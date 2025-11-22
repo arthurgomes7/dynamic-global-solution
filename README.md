@@ -15,3 +15,9 @@ Histórico de Aulas:
 
 Módulos do Curso: 
 - Percorrer elementos do array: O(k)
+
+
+Integrantes: 
+Arthur Gomes - RM 560771
+Matheus Siroma - RM 560248
+Pedro Estevam - RM 560642
